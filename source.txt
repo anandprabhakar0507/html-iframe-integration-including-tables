@@ -1,0 +1,42 @@
+          <!DOCTYPE html>
+<HTML lang="en-US">
+    <HEAD>
+        <TITLE> Iframes in HTML 5</TITLE>
+        <META charset="utf-8" />
+        <META name="keywords" content="" />
+        <META name="description" content="" />
+    </HEAD>
+    <BODY>
+        <div padding-left="30px" padding-right="30px";>
+        <iframe src="https://anandprabhakarpersonal.blogspot.in" height="500" width="1200" name="iframe1"></iframe>
+</div>
+
+ <table border="1">
+
+<tr>
+     <td>   <a href="http://anandprabhakarpersonal.blogspot.in" target="iframe1">Link to ap blog</a></td>
+</tr>
+
+<tr>
+ <td> <a href="http://anandprabhakarofficial.wordpress.com" target="iframe1">Link to ap wordpress site</a></td>
+
+ <td> <a href="http://anandprabhakar.wixsite.com/photos" target="iframe1">Link to ap Gallery</a></td>
+</tr>
+
+
+<tr>
+ <td> <a href="http://anandprabhakar.wixsite.com/anand" target="iframe1">Link to ap official site</a></td>
+
+
+ <td> <a href="http://anandprabhakar.cf" target="iframe1">Link to ap official site2</a></td>
+
+
+<td> <a href="http://anandprabhakar.ga" target="iframe1">Link to ap demo site</a></td>
+     
+ <td> <a href="http://anandprabhakar.unaux.com" target="iframe1">Link to ap unofficial site</a></td>
+</tr>
+
+</table>
+       
+    </BODY>
+</HTML>
